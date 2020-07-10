@@ -8,8 +8,8 @@ h1{
   font-weight: bold;
 }
 .top-banner{
-    height:576px ;
     background-color:#f0fff0 ;
+    padding-bottom: 10%;
 }
 .top-box{
   padding-top: 50px;
@@ -20,9 +20,7 @@ h1{
 }
 
 .nav-item{
-  /* background-color: aquamarine; */
   padding:0 10px;
-
 }
 .black{
   color: black;
