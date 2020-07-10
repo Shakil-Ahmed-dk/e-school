@@ -1,0 +1,156 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+  font-size: 48px;
+  font-weight: bold;
+}
+.top-banner{
+    height:576px ;
+    background-color:#f0fff0 ;
+}
+.top-box{
+  padding-top: 50px;
+}
+#brand-image{
+    height: 59px;
+    width: 198px;
+}
+
+.nav-item{
+  /* background-color: aquamarine; */
+  padding:0 10px;
+
+}
+.nav-item a{
+  color: black;
+}
+
+.colored-button{
+  /* border: 2px solid red; */
+  background-color:#21B573;
+  border-radius: 20px;
+  /* padding: 0 20px; */
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+.colored-button a{
+  color: white;
+  
+}
+
+
+.btn-text{
+  color: white;
+}
+
+.row{
+  padding-top: 30px;
+}
+
+.illustration{
+  height: 90%;
+  width: 90%;
+}
+
+
+.green-text{
+  color:#21b573 ;
+}
+
+.red-text{
+color: red;
+}
+
+.top-box-left{
+ line-height: 2.6;
+}
+
+
+
+/* stage 2 starts here */
+.card-first-section{
+ padding-top: 30px;
+ margin: 0px 50px;
+
+}
+.card-image{
+ height: 70px;
+ width: 70px;
+
+}
+.card-size{
+ height:270px;
+ width: 270px;
+ background-color: aquamarine;
+}
+
+
+.size{
+  height: 70px;
+  width: 70px;
+}
+.btn-color{
+  background-color: #f8fffB;
+  height: 270px;
+  width: 270px;
+}
+.btn:hover{
+  background-color: sienna;
+}
+
+/* second card section starts from here */
+
+.section-second h2{
+text-align: center;
+font-weight: 900;
+font-size: 36px;
+color:#413960 ;
+
+margin-top: 100px;
+margin-bottom: 80px;
+}
+
+.card{
+padding: 15px;
+border-radius: 10px;
+box-shadow: 0 0 10px lightgray;
+}
+.card-title1 {
+background-color: aquamarine;
+margin: 0px;
+padding: 0px;
+}
+
+.card-footer-image{
+height: 20px;
+width: 20px;
+}
+
+/* Testimonial section starts form here */
+.testimonial{
+font-size:36px ;
+font-weight: 900;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.testimonial-right{
+  padding-top:3%;
+}
+.footer {
+width: 100%;
+background-color: #282531;
+margin-top: 100px; 
+padding-top: 5%;
+font-weight: 200;
+color: rgb(209, 204, 200);
+}
+
+.copy-right{
+padding-top: 100px;
+padding-bottom: 50px;
+}
