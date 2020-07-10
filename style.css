@@ -99,7 +99,7 @@ color: red;
   width: 270px;
 }
 .btn:hover{
-  background-color: sienna;
+  box-shadow: 0 0 10px lightgray;
 }
 
 /* second card section starts from here */
