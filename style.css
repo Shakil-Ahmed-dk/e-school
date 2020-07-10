@@ -24,15 +24,17 @@ h1{
   padding:0 10px;
 
 }
-.nav-item a{
+.black{
   color: black;
+}
+#signin{
+  color: white;
 }
 
 .colored-button{
-  /* border: 2px solid red; */
+ 
   background-color:#21B573;
   border-radius: 20px;
-  /* padding: 0 20px; */
   padding-left: 20px;
   padding-right: 20px;
   
@@ -119,11 +121,7 @@ padding: 15px;
 border-radius: 10px;
 box-shadow: 0 0 10px lightgray;
 }
-.card-title1 {
-background-color: aquamarine;
-margin: 0px;
-padding: 0px;
-}
+
 
 .card-footer-image{
 height: 20px;
